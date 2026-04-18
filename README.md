@@ -126,7 +126,5 @@ I'm actively looking for **full-time software engineering roles starting June 20
 
 </div>
 
-
-
-
+<img width="677" height="855" alt="image" src="https://github.com/user-attachments/assets/fb84ef89-d7e3-44fa-baa4-e94b42c3ad0a" />
 <img width="845" height="907" alt="Screenshot 2026-04-02 035464" src="https://github.com/user-attachments/assets/2904a6cb-52be-4df5-a110-8350c1f08091" />
