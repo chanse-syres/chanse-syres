@@ -1,6 +1,8 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1e5c35&height=160&section=header&text=Chanse%20Syres&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20Oregon%20State%20University%20%E2%80%A2%20June%202026&descSize=14&descAlignY=68&descColor=a8d5b5" />
+<img width="2040" height="1440" alt="1776571623-d565bb49-1bab-4a6f-b0c2-e61e216fdf37" src="https://github.com/user-attachments/assets/2dc185ff-1cda-4226-93a5-948a17f2cc7e" />
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-chansesyres.com-1e5c35?style=for-the-badge&logo=safari&logoColor=white)](https://chansesyres.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chanse%20Syres-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chanse-syres-691236225)
