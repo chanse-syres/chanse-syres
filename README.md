@@ -13,15 +13,16 @@
 
 ## 👋 About Me
 
-I'm a **Computer Science senior at Oregon State University** (3.82 GPA, graduating June 2026) with hands-on experience shipping software across the full stack — from React frontends and Node/Express APIs to Android apps, raw-socket networking tools, and cloud backend systems.
+Hi there,
+I'm a **Computer Science senior at Oregon State University** (3.82 GPA, graduating June 2026) with hands on experience shipping software across the full stack; from React frontends and Node/Express APIs to Android apps, raw-socket networking tools, and cloud backend systems.
 
-Currently working as a **paid Software Engineering Evaluator (Contract)** — fixing bugs in open-source codebases, writing regression tests, and debugging containerized CI environments.
+Currently working as a **paid Software Engineering Evaluator (Contract)** fixing bugs in open source codebases, writing regression tests, and debugging containerized CI environments.
 
 - 🔭 &nbsp;Currently working on: **Algorithmic Trading Platform** (Senior Capstone) + contract SWE work via AI Handshake
 - 🌱 &nbsp;Deepening: **Docker**, **mypy/static typing**, **pytest**, **PHPUnit**
 - 💼 &nbsp;Seeking: **Full-time SWE roles** starting June 2026
 - 📍 &nbsp;Based in **Bend, OR**
-- ⚡ &nbsp;Background in **Physics** (A.A., COCC) — I think about problems differently because of it
+- ⚡ &nbsp;Background in **Physics** (A.A., COCC)
 
 ---
 
@@ -69,21 +70,23 @@ Currently working as a **paid Software Engineering Evaluator (Contract)** — fi
 ### 📱 [Treasure Hunt — Android GPS App](https://github.com/chanse-syres/mobile_treasure_hunt)
 > **Kotlin · Jetpack Compose · MVVM · StateFlow · Android SDK**
 
-GPS-based treasure hunt app with real geofence verification using the haversine formula (accurate to <10m). Built with MVVM + StateFlow for reactive, lifecycle-safe UI. Handles runtime permissions, GPS signal loss, and edge cases gracefully.
+GPS-based treasure hunt app with real geofence verification using the haversine formula (accurate to <10m). Built with MVVM and StateFlow for reactive, lifecycle-safe UI. Handles runtime permissions, GPS signal loss, and edge cases gracefully.
 
 ---
 
 ### 🌐 [Full-Stack Portfolio Website](https://github.com/chanse-syres/portfolio-backend-public)
 > **React · Node.js · Express · MongoDB · Cloudflare · Render**
 
-Live production web app — React SPA frontend, Node/Express REST API, MongoDB Atlas database. Zero-downtime CI/CD via Render + Cloudflare CDN. Includes validated contact forms, rate limiting, and spam protection. **Running live at [chansesyres.com](https://chansesyres.com).**
+Live production web app: React SPA frontend, Node/Express REST API, MongoDB Atlas database. Zero-downtime CI/CD via Render and Cloudflare CDN. Includes full stackk functionality across a contact form, purchase ready infrastructure, and live CRUD formatted databases. It exists to show that I can produce full stack web products with live databases and backend integration.
+
+**Running live at [chansesyres.com](https://chansesyres.com).**
 
 ---
 
 ### 🔌 [Raw-Socket Traceroute Tool](https://github.com/chanse-syres/traceroute)
 > **Python · Raw Sockets · ICMP · RFC-792 · TCP/IP**
 
-Built from scratch using raw sockets — manually constructs RFC-792 ICMP Echo Request packets, computes checksums bit-by-bit, parses TTL-exceeded replies, and reconstructs full hop-by-hop network paths. Zero external dependencies.
+Built from scratch using raw sockets; manually constructs RFC-792 ICMP Echo Request packets, computes checksums bit-by-bit, parses TTL-exceeded replies, and reconstructs full hop-by-hop network paths. Zero external dependencies.
 
 ---
 
@@ -131,3 +134,4 @@ I'm actively looking for **full-time software engineering roles starting June 20
 <img width="1060" height="517" alt="Screenshot 2026-04-18 174122" src="https://github.com/user-attachments/assets/d765fcc8-5a54-4ba2-bcf0-41592a84abe2" />
 <img width="2040" height="1440" alt="1776571623-d565bb49-1bab-4a6f-b0c2-e61e216fdf37" src="https://github.com/user-attachments/assets/a94a878a-8628-4df0-af95-d468b125de4a" />
 
+Draft version.
