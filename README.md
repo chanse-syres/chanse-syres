@@ -111,7 +111,7 @@ Low-level systems project using POSIX threading, mutexes, and shared memory to c
 <img height="160" src="https://ghstats.dev/api/card?username=chanse-syres&theme=light&hide_border=true&title_color=1e5c35&icon_color=1e5c35&text=2d3142&bg=f7f8fb&hide=week,trend,avg,active_day,contributions,repos,followers" />
 &nbsp;&nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanse-syres&layout=compact&theme=default&hide_border=true&title_color=1e5c35&text_color=2d3142&bg_color=f7f8fb&langs_count=8" />
-
+Note: My current workflow uses private branch pipelines, so my shipped work (PRs and Contributions) is not showing in GitHub’s public contribution graph.
 </div>
 
 ---
