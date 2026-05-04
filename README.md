@@ -108,7 +108,7 @@ Low-level systems project using POSIX threading, mutexes, and shared memory to c
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=chanse-syres&show_icons=true&theme=default&hide_border=true&title_color=1e5c35&icon_color=1e5c35&text_color=2d3142&bg_color=f7f8fb&include_all_commits=true&count_private=true" />
+<img height="160" src="https://ghstats.dev/api/card?username=chanse-syres&theme=light&hide_border=true&title_color=1e5c35&icon_color=1e5c35&text=2d3142&bg=f7f8fb&hide=week,trend,avg,active_day,contributions,repos,followers" />
 &nbsp;&nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanse-syres&layout=compact&theme=default&hide_border=true&title_color=1e5c35&text_color=2d3142&bg_color=f7f8fb&langs_count=8" />
 
