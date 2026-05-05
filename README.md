@@ -126,13 +126,13 @@ I'm actively looking for **full-time software engineering roles starting June 20
 - 📧 **Email:** syresc@oregonstate.edu
 
 <div align="center">
-<img width="994" height="821" alt="image" src="https://github.com/user-attachments/assets/d7ddfd5d-0fcb-4c55-9b55-c20f7fee4db3" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1e5c35&height=100&section=footer" />
 
 </div>
 
 <img width="1060" height="838" alt="Screenshot 2026-04-18 174026" src="https://github.com/user-attachments/assets/ddf00dd3-8633-4f8e-9b95-cff5ae907bb8" />
 <img width="1060" height="517" alt="Screenshot 2026-04-18 174122" src="https://github.com/user-attachments/assets/d765fcc8-5a54-4ba2-bcf0-41592a84abe2" />
+<img width="994" height="821" alt="image" src="https://github.com/user-attachments/assets/69db7c95-c35e-4df4-a423-178598ce6d11" />
 <img width="2040" height="1440" alt="1776571623-d565bb49-1bab-4a6f-b0c2-e61e216fdf37" src="https://github.com/user-attachments/assets/a94a878a-8628-4df0-af95-d468b125de4a" />
 
 Draft version.
