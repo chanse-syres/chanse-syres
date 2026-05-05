@@ -126,7 +126,7 @@ I'm actively looking for **full-time software engineering roles starting June 20
 - 📧 **Email:** syresc@oregonstate.edu
 
 <div align="center">
-
+<img width="994" height="821" alt="image" src="https://github.com/user-attachments/assets/d7ddfd5d-0fcb-4c55-9b55-c20f7fee4db3" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1e5c35&height=100&section=footer" />
 
 </div>
