@@ -14,7 +14,7 @@
 ## 👋 About Me
 
 Hi there,
-I'm a **Computer Science senior at Oregon State University** (3.82 GPA, graduating June 2026) with hands on experience shipping software across the full stack; from React frontends and Node/Express APIs to Android apps, raw-socket networking tools, and cloud backend systems. My Computer Science degree Software Engineering focused, and my micro-credentials are in Theoretical Computer Science and Programming Fundamentals.
+I'm a **Computer Science senior at Oregon State University** (3.82 GPA, graduating June 2026) with hands on experience shipping software across the full stack; from React frontends and Node/Express APIs to Android apps, raw-socket networking tools, and cloud backend systems. My Computer Science degree Software Engineering focused, and my micro-credentials are in Theoretical Computer Science and Programming Fundamentals. I enjoy this type of work and I am happy to stay busy.
 
 Currently working as a **paid Software Engineering Evaluator (Contract)** fixing bugs in open source codebases, writing regression tests, and debugging containerized CI environments.
 
