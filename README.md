@@ -24,6 +24,7 @@ Currently working as a **paid Software Engineering Evaluator (Contract)** fixing
 - 📍 &nbsp;Based in **Bend, OR**
 - ⚡ &nbsp;Background in **Physics** (A.A., COCC)
 
+Be the best that you can be.
 ---
 
 ## 🛠️ Tech Stack
