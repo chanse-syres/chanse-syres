@@ -18,10 +18,9 @@ I'm a **Computer Science senior at Oregon State University** (3.82 GPA, graduati
 
 Currently working as a **paid Software Engineering Evaluator (Contract)** fixing bugs in open source codebases, writing regression tests, and debugging containerized CI environments.
 
-- 🔭 &nbsp;Currently working on: **Algorithmic Trading Platform** (Senior Capstone) + contract SWE work via AI Handshake
+- 🔭 &nbsp;Currently working on: **beaverfrontoffice.com, contract SWE/AI Trainer work via AI Handshake
 - 🌱 &nbsp;Deepening: **Docker**, **mypy/static typing**, **pytest**, **PHPUnit**
 - 💼 &nbsp;Seeking: **Full-time SWE roles** starting June 2026
-- 💲 &nbsp;Expected pay: **$50/hr** and up.
 - 📍 &nbsp;Based in **Bend, OR**
 - ⚡ &nbsp;Background in **Physics** (A.A., COCC)
 
