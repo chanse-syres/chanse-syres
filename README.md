@@ -126,6 +126,10 @@ I'm actively looking for **full-time software engineering roles starting June 20
 - 💼 **LinkedIn:** [linkedin.com/in/chanse-syres-691236225](https://linkedin.com/in/chanse-syres-691236225)
 - 📧 **Email:** syresc@oregonstate.edu
 
+<img width="847" height="646" alt="Screenshot 2026-06-22 202543" src="https://github.com/user-attachments/assets/58df558b-8afa-4196-bf5c-08dc475eb46f" />
+<img width="847" height="395" alt="Screenshot 2026-06-22 202616" src="https://github.com/user-attachments/assets/497aa83a-d226-42e4-8eef-aa783387c87a" />
+<img width="845" height="530" alt="Screenshot 2026-06-22 202634" src="https://github.com/user-attachments/assets/560d5a52-43a5-4910-9bae-8cc2268b83a1" />
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1e5c35&height=100&section=footer" />
 
@@ -136,4 +140,4 @@ I'm actively looking for **full-time software engineering roles starting June 20
 <img width="994" height="821" alt="image" src="https://github.com/user-attachments/assets/69db7c95-c35e-4df4-a423-178598ce6d11" />
 <img width="2040" height="1440" alt="1776571623-d565bb49-1bab-4a6f-b0c2-e61e216fdf37" src="https://github.com/user-attachments/assets/a94a878a-8628-4df0-af95-d468b125de4a" />
 
-Draft version.
+===========================================================================================================================================================================================================================
