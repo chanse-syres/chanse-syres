@@ -16,7 +16,7 @@
 Hi there,
 I'm a **Computer Science graduate student at Oregon State University** (3.84 GPA, graduated June 2026) with hands on experience shipping software across the full stack; from React frontends and Node/Express APIs to Android apps, raw-socket networking tools, and cloud backend systems. My Computer Science degree Software Engineering focused, and my micro-credentials are in Theoretical Computer Science and Programming Fundamentals. 
 
-Currently working as an **AI Agent Engineering Evaluator (Contract)** with Handshake AI on Frontier AI models debugging codebases, writing regression tests, validating CI behavior, reviewing coding-agent tasks, and analyzing where agentic systems fail. My strongest interest is building reliable evaluation workflows that expose real software-engineering failure modes instead of artificial benchmark tricks.
+Currently working as an **SWE** with Mercor and **AI Agent Engineering Evaluator (Contract)** with Handshake AI on Frontier AI models debugging codebases, writing regression tests, validating CI behavior, reviewing coding-agent tasks, and analyzing where agentic systems fail. My strongest interest is building reliable evaluation workflows that expose real software-engineering failure modes instead of artificial benchmark tricks.
 
 I like work where correctness matters: tests, CI, debugging, reliability, and systems that have to hold up under real use.
 
