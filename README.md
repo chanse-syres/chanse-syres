@@ -20,7 +20,7 @@ Currently working as an **SWE** with Mercor and **AI Agent Engineering Evaluator
 
 I like work where correctness matters: tests, CI, debugging, reliability, and systems that have to hold up under real use.
 
-- 🔭 &nbsp;Currently working on: **beaverfrontoffice.com, contract SWE/AI work via Handshake AI.**
+- 🔭 &nbsp;Currently working on: **beaverfrontoffice.com, contract SWE/AI work via Handshake AI and Mercor.**
 - 🌱 &nbsp;Deepening: **Docker**, **mypy/static typing**, **pytest**, **PHPUnit**
 - 💼 &nbsp;Seeking: **Full-time SWE-related roles**
 - 📍 &nbsp;Based in **Bend, OR**
