@@ -16,11 +16,11 @@
 Hi there,
 I'm a **Computer Science student from Oregon State University** (3.84 GPA, graduated June 2026) with hands on experience shipping software across the full stack; from React frontends and Node/Express APIs to Android apps, raw-socket networking tools, and cloud backend systems. My Computer Science degree Software Engineering focused, my micro-credentials are in Theoretical Computer Science and Programming Fundamentals, and I'm planning to do my MSCS with the University of Texas starting this fall.
 
-Currently working as an **SWE** with Mercor and **AI Agent Engineering Evaluator (Contract)** with Handshake AI on Frontier AI models debugging codebases, writing regression tests, validating CI behavior, reviewing coding-agent tasks, and analyzing where agentic systems fail. My strongest interest is building reliable evaluation workflows that expose real software-engineering failure modes instead of artificial benchmark tricks. I've discovered that AI agent evaluation work is a perfect job/career fit; My focus is ensuring consistent, high-quality results.
+Currently working as an **AI Agent Engineering Evaluator (Contract)** with Handshake AI on Frontier AI models debugging codebases, writing regression tests, validating CI behavior, reviewing coding-agent tasks, and analyzing where agentic systems fail. My strongest interest is building reliable evaluation workflows that expose real software-engineering failure modes instead of artificial benchmark tricks. I've discovered that AI agent evaluation work is a perfect job/career fit; My focus is ensuring consistent, high-quality results.
 
 I like work where correctness matters: tests, CI, debugging, reliability, and systems that have to hold up under real use.
 
-- 🔭 &nbsp;Currently working on: **beaverfrontoffice.com, contract SWE/AI work via Handshake AI and Mercor.**
+- 🔭 &nbsp;Currently working on: **beaverfrontoffice.com, contract SWE/AI work via Handshake AI.**
 - 🌱 &nbsp;Deepening: **Docker**, **mypy/static typing**, **pytest**, **PHPUnit**
 - 💼 &nbsp;Seeking: **Full-time SWE-related roles**
 - 📍 &nbsp;Based in **Bend, OR**
