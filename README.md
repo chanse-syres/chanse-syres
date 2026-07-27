@@ -22,8 +22,8 @@ I like work where correctness matters: tests, CI, debugging, reliability, and sy
 
 - 🔭 &nbsp;Currently working on: **beaverfrontoffice.com, contract SWE/AI work via Handshake AI.**
 - 🌱 &nbsp;Deepening: **Docker**, **mypy/static typing**, **pytest**, **PHPUnit**
-- 💼 &nbsp;Seeking: **Full-time SWE-related roles**
-- 📍 &nbsp;Based in **Bend, OR**
+- 💼 &nbsp;Seeking: **Full-time SWE/AI-related roles**
+- 📍 &nbsp;Based in **Bend, OR**. Willing to relocate, prefer remote work.
 - ⚡ &nbsp;Background in **Physics** (A.A., COCC)
 ---
 
