@@ -14,7 +14,7 @@
 ## 👋 About Me
 
 Hi there,
-I'm a **Computer Science student from Oregon State University** (3.84 GPA, graduated June 2026) with hands on experience shipping software across the full stack; from React frontends and Node/Express APIs to Android apps, raw-socket networking tools, and cloud backend systems. My Computer Science degree Software Engineering focused, my micro-credentials are in Theoretical Computer Science and Programming Fundamentals, and I'm planning to do my MSCS with the University of Texas starting this fall.
+I'm a **Computer Science student from Oregon State University** (3.84 GPA) and an incoming grad student to the **University of Texas at Austin** for computer science. I have hands on experience shipping software across the full stack; from React frontends and Node/Express APIs to Android apps, raw-socket networking tools, CI/CD DevOps, and cloud backend systems. My Computer Science degree Software Engineering focused, my micro-credentials are in Theoretical Computer Science and Programming Fundamentals, and I'm planning to focus more on AI/ML in my graduate studies.
 
 Currently working as an **AI Agent Engineering Evaluator (Contract)** with Handshake AI on Frontier AI models debugging codebases, writing regression tests, validating CI behavior, reviewing coding-agent tasks, and analyzing where agentic systems fail. My strongest interest is building reliable evaluation workflows that expose real software-engineering failure modes instead of artificial benchmark tricks. I've discovered that AI agent evaluation work is a perfect job/career fit; My focus is ensuring consistent, high-quality results.
 
