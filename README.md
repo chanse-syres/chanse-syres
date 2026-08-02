@@ -6,7 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-chansesyres.com-1e5c35?style=for-the-badge&logo=safari&logoColor=white)](https://chansesyres.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chanse%20Syres-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chanse-syres-691236225)
 [![Email](https://img.shields.io/badge/Email-syresc@oregonstate.edu-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syresc@oregonstate.edu)
-
+[![Email](https://img.shields.io/badge/Email-syresc@utexas.edu-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syresc@utexas.edu)
 </div>
 
 ---
