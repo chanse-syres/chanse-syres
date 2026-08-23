@@ -123,7 +123,19 @@ I'm actively looking for **full-time software engineering roles starting June 20
 - 💼 **LinkedIn:** [linkedin.com/in/chanse-syres-691236225](https://linkedin.com/in/chanse-syres-691236225)
 - 📧 **Email:** syresc@oregonstate.edu
 
-<img width="847" height="646" alt="Screenshot 2026-06-22 202543" src="https://github.com/user-attachments/assets/58df558b-8afa-4196-bf5c-08dc475eb46f" />
+## 📄 Resume
+
+Click either page to open or download the PDF.
+
+<a href="./assets/Chanse_Syres_Resume_2026-08.pdf">
+  <img width="847" alt="Chanse Syres software engineer resume, page 1" src="./assets/Chanse_Syres_Resume_2026-08-page-1.png" />
+</a>
+<a href="./assets/Chanse_Syres_Resume_2026-08.pdf">
+  <img width="847" alt="Chanse Syres software engineer resume, page 2" src="./assets/Chanse_Syres_Resume_2026-08-page-2.png" />
+</a>
+
+[Open or download the résumé PDF](./assets/Chanse_Syres_Resume_2026-08.pdf)
+
 <img width="847" height="395" alt="Screenshot 2026-06-22 202616" src="https://github.com/user-attachments/assets/497aa83a-d226-42e4-8eef-aa783387c87a" />
 <img width="845" height="530" alt="Screenshot 2026-06-22 202634" src="https://github.com/user-attachments/assets/560d5a52-43a5-4910-9bae-8cc2268b83a1" />
 
