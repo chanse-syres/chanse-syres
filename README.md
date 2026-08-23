@@ -136,9 +136,6 @@ Click either page to open or download the PDF.
 
 [Open or download the résumé PDF](./assets/Chanse_Syres_Resume_2026-08.pdf)
 
-<img width="847" height="395" alt="Screenshot 2026-06-22 202616" src="https://github.com/user-attachments/assets/497aa83a-d226-42e4-8eef-aa783387c87a" />
-<img width="845" height="530" alt="Screenshot 2026-06-22 202634" src="https://github.com/user-attachments/assets/560d5a52-43a5-4910-9bae-8cc2268b83a1" />
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1e5c35&height=100&section=footer" />
 
