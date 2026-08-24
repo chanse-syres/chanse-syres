@@ -13,7 +13,7 @@
 Hi there,
 I'm a **Computer Science student from Oregon State University** (3.84 GPA) and an incoming grad student to the **University of Texas at Austin** for computer science. I have hands on experience shipping software across the full stack; from React frontends and Node/Express APIs to Android apps, raw-socket networking tools, CI/CD DevOps, and cloud backend systems. My Computer Science degree Software Engineering focused, my micro-credentials are in Theoretical Computer Science and Programming Fundamentals, and I'm planning to focus more on AI/ML in my graduate studies.
 
-Currently working as an **AI Agent Engineering Evaluator (Contract)** with **Handshake AI** on Frontier AI models debugging codebases, writing regression tests, validating CI behavior, reviewing coding-agent tasks, and analyzing where agentic systems fail. My strongest interest is building reliable evaluation workflows that expose real software-engineering failure modes instead of artificial benchmark tricks. I've discovered that AI agent evaluation work is a perfect job/career fit; My focus is ensuring consistent, high-quality results. One of my biggest strengths is my blue-collar work ethic. My blue-collar work-ethic has translated into this industry as sustainable 90-hour+ work-weeks.
+AI-agent evaluation aligns with my interests in debugging, regression testing, and reliability. I build repeatable evaluation workflows and analyze failures against explicit criteria. My blue-collar background taught me persistence and follow-through in demanding technical work.
 
 I like work where correctness matters: tests, CI, debugging, reliability, and systems that have to hold up under real use.
 
@@ -75,7 +75,7 @@ GPS-based treasure hunt app with real geofence verification using the haversine 
 ### 🌐 [Full-Stack Portfolio Website](https://github.com/chanse-syres/portfolio-backend-public)
 > **React · Node.js · Express · MongoDB · Cloudflare · Render**
 
-Live production web app: React SPA frontend, Node/Express REST API, MongoDB Atlas database. Zero-downtime CI/CD via Render and Cloudflare CDN. Includes full stackk functionality across a contact form, purchase ready infrastructure, and live CRUD formatted databases. It exists to show that I can produce full stack web products with live databases and backend integration.
+Deployed React application with Node/Express REST APIs, MongoDB Atlas persistence, a contact form, and Stripe Checkout. Automated deployments run through Render and Cloudflare.
 
 **Running live at [chansesyres.com](https://chansesyres.com).**
 
@@ -117,7 +117,7 @@ Note: My current workflow uses private branch pipelines, so my shipped work (PRs
 
 ## 📬 Let's Connect
 
-I'm actively looking for **full-time software engineering roles starting June 2026.** If you're hiring or just want to chat about a project, reach out:
+I'm actively looking for **full-time software engineering and AI-evaluation roles.** If you're hiring or want to discuss a project, reach out:
 
 - 🌐 **Portfolio:** [chansesyres.com](https://chansesyres.com)
 - 💼 **LinkedIn:** [linkedin.com/in/chanse-syres-691236225](https://linkedin.com/in/chanse-syres-691236225)
