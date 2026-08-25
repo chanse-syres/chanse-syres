@@ -68,7 +68,7 @@ I like work where correctness matters: tests, CI, debugging, reliability, and sy
 ### 📱 [Treasure Hunt — Android GPS App](https://github.com/chanse-syres/mobile_treasure_hunt)
 > **Kotlin · Jetpack Compose · MVVM · StateFlow · Android SDK**
 
-GPS-based treasure hunt app with real geofence verification using the haversine formula (accurate to <10m). Built with MVVM and StateFlow for reactive, lifecycle-safe UI. Handles runtime permissions, GPS signal loss, and edge cases gracefully.
+GPS-based treasure hunt app with real geofence verification using the haversine formula (accurate to <10m). Built with MVVM and StateFlow for reactive, lifecycle-safe UI. Handles runtime permission denial and GPS signal loss.
 
 ---
 
