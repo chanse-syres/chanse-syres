@@ -7,6 +7,9 @@
 </div>
 
 ---
+Background: Software Engineering
+
+Career desire: AI Eval Engineer, Benchmark Engineer, or Eval Operations.
 
 ## 👋 About Me
 
