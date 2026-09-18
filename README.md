@@ -14,7 +14,7 @@ Career desire: AI Eval Engineer, Benchmark Engineer, or Eval Operations.
 ## 👋 About Me
 
 Hi there,
-I'm a **Computer Science student from Oregon State University** (3.84 GPA) and an incoming grad student to the **University of Texas at Austin** for computer science. I have hands on experience shipping software across the full stack; from React frontends and Node/Express APIs to Android apps, raw-socket networking tools, CI/CD DevOps, and cloud backend systems. My Computer Science degree Software Engineering focused, my micro-credentials are in Theoretical Computer Science and Programming Fundamentals, and I'm planning to focus more on AI/ML in my graduate studies.
+I'm a **Computer Science student from Oregon State University** (3.84 GPA) and grad student of the **University of Texas at Austin** for computer science. I have hands on experience shipping software across the full stack; from React frontends and Node/Express APIs to Android apps, raw-socket networking tools, CI/CD DevOps, and cloud backend systems. My Computer Science degree Software Engineering focused, my micro-credentials are in Theoretical Computer Science and Programming Fundamentals, and I'm planning to focus more on AI/ML in my graduate studies.
 
 AI-agent evaluation aligns with my interests in debugging, regression testing, and reliability. I build repeatable evaluation workflows and analyze failures against explicit criteria. My blue-collar background taught me persistence and follow-through in demanding technical work.
 
