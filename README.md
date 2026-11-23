@@ -133,13 +133,19 @@ I'm actively looking for **full-time software engineering and AI-evaluation role
 
 ## 📄 Resume
 
-Click either page to open or download the PDF.
+Click any page to open or download the PDF.
 
 <a href="./assets/Chanse_Syres_Resume_2026-08.pdf">
   <img width="847" alt="Chanse Syres software engineer resume, page 1" src="./assets/Chanse_Syres_Resume_2026-08-page-1.png" />
 </a>
 <a href="./assets/Chanse_Syres_Resume_2026-08.pdf">
   <img width="847" alt="Chanse Syres software engineer resume, page 2" src="./assets/Chanse_Syres_Resume_2026-08-page-2.png" />
+</a>
+<a href="./assets/Chanse_Syres_Resume_2026-08.pdf">
+  <img width="847" alt="Chanse Syres software engineer resume, page 3" src="./assets/Chanse_Syres_Resume_2026-08-page-3.png" />
+</a>
+<a href="./assets/Chanse_Syres_Resume_2026-08.pdf">
+  <img width="847" alt="Chanse Syres software engineer resume, page 4" src="./assets/Chanse_Syres_Resume_2026-08-page-4.png" />
 </a>
 
 [Open or download the résumé PDF](./assets/Chanse_Syres_Resume_2026-08.pdf)
