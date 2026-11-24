@@ -12,8 +12,7 @@ Career desire: AI Eval Engineer, Benchmark Engineer, or Eval Operations.
 
 Update: Checking in with everyone!
 
-Working on funding for the AI PhD. If I just be a little patient, I can turn the 2-year MSAI into a 6-year PhD. 🤞 #GoBeavs
-
+Working on funding for graduate school. Taking remote courses while I wait for my PhD admission decision, I will accept. 🤞 #GoBeavs
 Corvallis is the best, and we're not done building.
 
 ## 👋 About Me
